@@ -1,0 +1,113 @@
+
+.container{
+    width: auto;
+    /* border: solid black 2px; */
+    margin: 20px;
+}
+
+body{
+    font-size: 24px;
+}
+
+.page1-page2{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.page1{
+    width: 31%;
+    color: white;
+    background-color: hsl(220deg 3% 20%);
+}
+
+
+.page2{
+    width: 69%;
+    margin-left: 20px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.flex-container1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-container2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-container3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list{
+    margin-left: 20px;
+}
+
+.points{
+    color: rgb(58, 162, 204);
+   
+}
+
+
+.tit{
+    text-align: center;
+}
+.hr-left{
+    margin: 0%;
+    padding: 0%;
+    width: 300px;
+    border-top: 3px solid white ;
+}
+
+.key-points{
+    line-height: 40px;
+}
+
+.technical{
+    margin-top: 30px;
+}
+
+.tech-points{
+    line-height: 40px;
+}
+
+.container1{
+    margin-left: 40px;
+}
+
+.tech-list{
+    margin-left: 20px;
+}
+
+.page2-hr-left{
+    margin: 0%;
+    padding: 0%;
+    width: 90%;
+    border-top: 3px solid black ;
+}
+
+.points{
+    /* text-align: center; */
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.project{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
